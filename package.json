@@ -68,6 +68,7 @@
         "webpack": "./node_modules/.bin/webpack-cli"
     },
     "dependencies": {
+        "big-integer": "^1.6.48",
         "ts-custom-error": "^3.0.0"
     },
     "optionalDependencies": {
